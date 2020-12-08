@@ -11,7 +11,7 @@ let isIsland = 'false';  //boolean
 let language;       //unidentified
 
 console.log('Country is: ' + typeof(country));
-console.log('continent ' + typeof(continent));
+console.log('continent ' + typeof(continent));   //another type -> (typeof continent)
 console.log('population ' + typeof(population));
 console.log('isIsland ' + typeof(isIsland));
 console.log('language ' + typeof(language));
