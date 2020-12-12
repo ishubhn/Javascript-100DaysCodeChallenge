@@ -12,7 +12,7 @@ Test data:
 */
 /*-----------------------------------------------------------------------------------------------*/
 
-/*  ***CODING CHALLENGE-2***
+/*  ***CODING CHALLENGE2***
 Use the BMI example from Challenge #1, and the code you already wrote, and
 improve it.
 Your tasks:
@@ -30,7 +30,7 @@ const heightJohn = 1.95;
 const BMIJohn = massJohn / (heightJohn ** 2);
 const BMIMark = massMark / (heightMark ** 2);
 
-if(BMIJohn > BMIMark) {
+if (BMIJohn > BMIMark) {
     console.log(`John's BMI (${BMIJohn}) is higher than Mark's (${BMIMark})!`);
 }
 else {
