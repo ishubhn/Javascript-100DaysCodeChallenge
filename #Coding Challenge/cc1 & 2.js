@@ -1,4 +1,4 @@
-/* Coding Challenge#1
+/* ***Coding Challenge-1***
 Mark and John are trying to compare their BMI (Body Mass Index), which is calculated 
 using the formula:BMI = mass / height ** 2 = mass / (height * height)(mass in kg and height in meter).Your tasks:
 
@@ -12,7 +12,7 @@ Test data:
 */
 /*-----------------------------------------------------------------------------------------------*/
 
-/*  CODING CHALLENGE 2
+/*  ***CODING CHALLENGE-2***
 Use the BMI example from Challenge #1, and the code you already wrote, and
 improve it.
 Your tasks:
@@ -20,7 +20,7 @@ Your tasks:
 is either "Mark's BMI is higher than John's!" or "John's BMI is higher than Mark's!"
 2. Use a template literal to include the BMI values in the outputs. Example: "Mark's
 BMI (28.3) is higher than John's (23.9)!"
- */
+*/
 
 const massMark = 78;
 const heightMark = 1.69;
